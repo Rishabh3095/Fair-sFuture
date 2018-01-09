@@ -1,0 +1,48 @@
+ {
+  "project_info": {
+    "project_number": "295813966764",
+    "project_id": "fairsfuture"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295813966764:android:b404fdb96846992c",
+        "android_client_info": {
+          "package_name": "com.example.rishabh.fairsfuture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295813966764-nms5tq0jq9ja705osqre250erjrr2f9e.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "295813966764-3i1cgs2ok4uf8kodlg4m2787t84g6954.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rishabh.fairsfuture",
+            "certificate_hash": "acd17686049a9e2bfd0c9a59924c42821971e7ee"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-7p_kjLpTTxi-YDCWUFn4KjXx8fGFwXc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
